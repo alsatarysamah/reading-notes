@@ -11,5 +11,5 @@
 
 
 ## Code 401 - Advanced Software Development
-[sql](sql.md)
+[SQL](./sql.md)
 
