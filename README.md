@@ -11,6 +11,9 @@
 
 
 ## Code 401 - Advanced Software Development
-[SQL](./sqlEX.md)
+
+
+[SQL](./sqlEX.md)[Command-line](./commandline.md)
 [Command-line](./commandline.md)
+
 
