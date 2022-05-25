@@ -1,5 +1,5 @@
 # SQL
-sql stand for structerd query language
+SQL stand for structerd query language
 ## Queries
 **1.SELECT**
 
