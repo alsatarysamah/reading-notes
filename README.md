@@ -11,5 +11,7 @@
 
 
 ## Code 401 - Advanced Software Development
-[sql](./sqlEX.md)
+
+[SQL](./sqlEX.md)
+
 
