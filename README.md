@@ -1,5 +1,5 @@
 # Reading Notes
-[SQL](./sql.md)
+[sql](./sqlEX.md)
 
 **This page can keep track of my observations and questions from the reading assignments throughout my course.
 
@@ -12,5 +12,5 @@
 
 
 ## Code 401 - Advanced Software Development
-[SQL](./sql.md)
+[sql](./sqlEX.md)
 
