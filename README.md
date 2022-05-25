@@ -1,4 +1,5 @@
 # Reading Notes
+[SQL](./sql.md)
 
 **This page can keep track of my observations and questions from the reading assignments throughout my course.
 
