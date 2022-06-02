@@ -19,5 +19,6 @@
 
 5.[classes](classes.md)
 
+6.[link-list](./link-list.md)
 
 ## Things I want to know more about
