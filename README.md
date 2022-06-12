@@ -24,4 +24,6 @@
 7.[Data-Modeling](./dataModeling.md)
 
 8.[sequelize-normalization](./sequelize-normalization.md)
+
+9.[Authentication](./Authentication.md)
 ## Things I want to know more about
