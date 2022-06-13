@@ -26,4 +26,6 @@
 8.[sequelize-normalization](./sequelize-normalization.md)
 
 9.[Authentication](./Authentication.md)
-## Things I want to know more about
+
+10.[Bearer-Authorization](./BearerAuthorization.md)
+
