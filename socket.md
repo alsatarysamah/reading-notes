@@ -21,6 +21,8 @@ var io = require('socket.io')(http);
 The root namespace '/' is the default namespace
 
 **Custom Namespaces**
-
+ b
 var nsp = io.of('/my-namespace');
 
+emit ioserver
+on socket
