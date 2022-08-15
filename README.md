@@ -54,3 +54,5 @@
 22-[hooks](./hooks.md)
 
 23-[useEffect](./useEffect.md)
+
+24-[useReducer](./useReducer.md)
