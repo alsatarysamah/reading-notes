@@ -2,7 +2,7 @@
 ### What can React Context provide your app?
  React context allows us to pass down and use (consume) data in whatever component we need in our React app without using props.
 
- ### Why might we use Context?
+###  Why might we use Context?
  Context is primarily used when some data needs to be accessible by many components at different nesting levels
 
 ```js
